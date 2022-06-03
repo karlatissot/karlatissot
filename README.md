@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karlatissot. I'm a UX Researcher.
 - 👀 I’m interested in quantitative research.
 - 🌱 I’m currently learning the basics.
-- 📫 How to reach me in my [LinkedIn profile].(https://www.linkedin.com/in/karlatissot/)
+- 📫 How to reach me in my [LinkedIn profile.](https://www.linkedin.com/in/karlatissot/)
 
 <!---
 karlatissot/karlatissot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
